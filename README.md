@@ -1,7 +1,7 @@
 ## Título: Detección de la Velocidad de Derrame
 
 ### Descripción General
-Este código realiza un análisis de una serie de imágenes para detectar y calcular la velocidad de un derrame de fluido. Utiliza diversas bibliotecas de Python para el procesamiento de imágenes y el análisis de datos.
+Este código realiza un análisis de una serie de imágenes para detectar y calcular la velocidad de un derrame de una celda de flotación de minerales. Utiliza diversas bibliotecas de Python para el procesamiento de imágenes y el análisis de datos.
 
 ### Bibliotecas Utilizadas
 - `numpy`: Operaciones numéricas y manipulaciones de matrices.
